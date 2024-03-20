@@ -59,7 +59,7 @@ The [search API request](#getting-started) is explained further below.
 
 :::
 
-1. Retrieve the `search.text` property and pass it on to the LLM of your choice.
+2. Retrieve the `search.text` property and pass it on to the LLM of your choice.
 
 _Example:_
 
@@ -302,9 +302,9 @@ _Response sample:_
             "suggestedText": "In the Bay Area between 2005-2007, 70,287 out of 3,122,743 workers, or 2.25%, walked for 10 or more minutes per day. This number increased to 81,737 out of 3,202,761 workers, or 2.55%, in the 2008-2010 period. In Butte, 1,266 out of 85,042 workers, or 1.49%, walked for 10 or more minutes per day between 2005-2007. This increased to 1,678...",
             "text": "\t|\t\t|\t2005-2007\t|\t\t|\t\t|\t2008-2010\n\t|\tWorkers who\t|\t\t|\t\t|\tWorkers who\n\t|\twalk ≥10\t|\t\t|\t\t|\twalk ≥10\nRegion name\t|\tmin / day\t|\tTotal..."
             },
-    ]
+    ],
     "score": 369.19244,
-            "text": "fullTitle: Percent of population aged 16 years or older whose commute to work is 10 or more minutes/day by walking or biking\npublisher: California Department of Public Health\nIn the Bay Area between 2005-2007, 70,287 out of 3,122,743 workers, or 2.25%, walked for 10 or more minutes per day. This number increased to 81,737 out of 3,202,761 workers, or 2.55%, in the 2008-2010 period. In Butte, 1,266 out of 85,042 workers, or 1.49%, walked for 10 or more minutes per day between 2005-2007. This increased to 1,678 out of 81,321 workers, or 2.06%, in 2008-2010..."
+    "text": "fullTitle: Percent of population aged 16 years or older whose commute to work is 10 or more minutes/day by walking or biking\npublisher: California Department of Public Health\nIn the Bay Area between 2005-2007, 70,287 out of 3,122,743 workers, or 2.25%, walked for 10 or more minutes per day. This number increased to 81,737 out of 3,202,761 workers, or 2.55%, in the 2008-2010 period. In Butte, 1,266 out of 85,042 workers, or 1.49%, walked for 10 or more minutes per day between 2005-2007. This increased to 1,678 out of 81,321 workers, or 2.06%, in 2008-2010..."
 }
 ```
 

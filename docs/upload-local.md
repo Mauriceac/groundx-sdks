@@ -91,7 +91,7 @@ let bucketId = 0;
 For simplicity, in this tutorial we'll set `bucketID` to `0` to ingest the content into a default bucket (See [Step 7](#step-7-get-default-bucket-id)).
 :::
 
-1. Set a variable to indicate the type of content you want to ingest. Currently, the supported file types are:
+2. Set a variable to indicate the type of content you want to ingest. Currently, the supported file types are:
 - txt
 - docx
 - pptx
